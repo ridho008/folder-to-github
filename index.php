@@ -6,7 +6,7 @@
 	<title>Github</title>
 </head>
 <body>
-	<h1>Hello Wolrd</h1>
+	<h1>Belajar Git</h1>
 	<p>membuat folder di localhost dan menjadikan sebuah repo, sehingga repo localhost bisa di pindahkan ke github</p>
 </body>
 </html>
